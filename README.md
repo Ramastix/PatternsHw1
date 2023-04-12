@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dg5wk4tl0e6umqkr?svg=true)](https://ci.appveyor.com/project/Ramastix/patternshw1)
+[![Build status](https://ci.appveyor.com/api/projects/status/nwjbvol0gu1c682k?svg=true)](https://ci.appveyor.com/project/Ramastix/patternshw1)
